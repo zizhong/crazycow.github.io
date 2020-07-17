@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Remove"
 date:   2020-07-17 00:38:04 -0700
 categories: jekyll update
 ---
