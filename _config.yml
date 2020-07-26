@@ -17,7 +17,7 @@ title: ZZZ's Site
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   狗蛋儿
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "zizhong.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: zzz
 github_username:  zizhong

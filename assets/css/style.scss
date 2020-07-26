@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+.site_title {
+    color: #b5c853;
+    text-decoration: unset;
+}
