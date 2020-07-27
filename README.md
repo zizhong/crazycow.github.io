@@ -1,6 +1,6 @@
-## Welcome to ZZZ' Site
+## Welcome to [ZZZ' Site](https://zizhong.github.io)
 
-[ZZZ' Site](https://github.com/zizhong/zizhong.github.io)
+### Thoughts on algorithm and software engineering!
 
 ### Markdown
 
