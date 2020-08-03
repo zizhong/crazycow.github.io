@@ -22,7 +22,7 @@ url: "https://zizhong.github.io" # the base hostname & protocol for your site, e
 author: zzz
 github_username:  zizhong
 
-google_analytics： UA-58230386-2
+google_analytics: UA-58230386-2
 
 # Build settings
 markdown: kramdown
