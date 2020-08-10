@@ -103,11 +103,11 @@ Given two lines, `y = k1 * x + m1` and `y = k2 * x + m2`, the x-axis of the inte
 The return value here is true if the current intersection is no less than the next intersection.
 
 Consider the following case, the first line is the red line, the second is the blue one, and the last is the green line.
-![](http://127.0.0.1:4000/assets/img/insert_line_1.png)
+![](https://zizhong.github.io/assets/img/insert_line_1.png)
 `p` of the red line is less than `p` of the blue line. Therefore, we need to keep all these lines.
 
 However, in the second case,
-![](http://127.0.0.1:4000/assets/img/insert_line_2.png)
+![](https://zizhong.github.io/assets/img/insert_line_2.png)
 `p` of the red line is larger than `p` of the blue line. Therefore, we need to remove the blue line.
 
 So that, if `isect` returns true, we need to erase `y`.
